@@ -1,0 +1,16 @@
+# Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs
+*.vscode
+*.nupkg
+*.dll
+*.exe
+*.log
+*.pdb
+*.db
+*.cache
+*.DS_Store
+appsettings.*.json
